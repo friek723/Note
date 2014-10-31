@@ -20,11 +20,17 @@ http://www.7net.com.tw/7net/rui005.faces?ID=130900140780&catid=28727
 Open將 $16999
 http://www.7net.com.tw/7net/rui005.faces?ID=140500146180&catid=28727
 
-Infocus(連網) $20999
+Infocus(連網) (中華電) $20999
 http://24h.pchome.com.tw/prod/DPADKB-A9005JPTJ?q=/S/DPADF0
 
 Infocus $16999
 http://24h.pchome.com.tw/prod/DPADKB-A90054QD0?q=/S/DPADBK
+
+禾聯 HERAN (中華電) $19900
+http://24h.pchome.com.tw/prod/DPAD0E-A82095314?q=/S/DPADF0
+
+大同 (中華電) $19988
+http://24h.pchome.com.tw/prod/DPAD0R-A90059WKV?q=/S/DPADF0
 
 Toshiba  $19900
 http://24h.pchome.com.tw/prod/DPAD07-A82952064?q=/S/DPADF0
@@ -40,14 +46,6 @@ http://24h.pchome.com.tw/prod/DPAD0B-A90059VMQ?q=/S/DPADF0
 
 CHIMEI $20900
 http://24h.pchome.com.tw/prod/DPAD00-A900529BR?q=/S/DPADF0
-
-禾聯 HERAN (中華電) $19900
-http://24h.pchome.com.tw/prod/DPAD0E-A82095314?q=/S/DPADF0
-
-大同 (中華電) $19988
-http://24h.pchome.com.tw/prod/DPAD0R-A90059WKV?q=/S/DPADF0
-
-
 
 
 --------------------------------------------------------------------------------------------------------------------
