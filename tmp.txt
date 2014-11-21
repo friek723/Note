@@ -1,0 +1,5 @@
+linux 
+- Find String in files - http://www.liamdelahunty.com/tips/linux_find_string_files.php
+  (find . | xargs grep 'string' -sl)
+  
+  
