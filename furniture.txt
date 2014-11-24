@@ -51,6 +51,7 @@ BenQ 49    18300 = 17000 +1300安裝費 (三年保固)
 BenQ 50    22200 = 20900 + 1300安裝費 (一年保固)
    http://24h.pchome.com.tw/prod/DPAD0O-A9005MSVX?q=/S/DPADF0 
 Amtran 55   21700= 20000 + 1700安裝費 (五年保固)
+   文件　http://www.wush.com.tw/downloadDocument/20140123A4AD9D49BB3947209E497.pdf
    *** http://24h.pchome.com.tw/prod/DPADC9-A9005O1TI?q=/S/DPADF0
    http://www.tkec.com.tw/pt.aspx?pid=141356  (5年  較薄)
    http://www.tkec.com.tw/pt.aspx?pid=135194   (3年 較厚)
