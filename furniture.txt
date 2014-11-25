@@ -32,8 +32,8 @@ http://24h.pchome.com.tw/prod/DPAC0W-A82454058?q=/S/DPAC0W
 http://24h.pchome.com.tw/prod/DPAC0W-A73316570?q=/S/DPAC0W
 
 SANYO
-http://24h.pchome.com.tw/prod/DPAC0X-A9005DGS1?q=/S/DPAC0X
-http://24h.pchome.com.tw/prod/DPAC0X-A9005DGRZ?q=/S/DPAC0X
+* http://24h.pchome.com.tw/prod/DPAC0X-A9005DGS1?q=/S/DPAC0X
+* http://24h.pchome.com.tw/prod/DPAC0X-A9005DGRZ?q=/S/DPAC0X
 
 TOSHIBA 福利品
 http://24h.pchome.com.tw/prod/DPACA0-19005FSKB
