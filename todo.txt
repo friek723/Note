@@ -33,7 +33,8 @@ TODO :
 測試TV錄影 (Record 星衛HD電影台 : 12/8 01:40 孤島驚魂  http://www.letv.com/ptv/vplay/1307372.html)
 
 12/14(Sun.)
-彰銀換摺帶印章
+彰銀換摺帶印章+存摺
+帶硬碟with VHDX
 
 12/15(Mon.) 
 彰銀換摺
