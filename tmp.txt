@@ -1,15 +1,4 @@
+http://www.mobile01.com/topicdetail.php?f=168&t=3748378&p=1
 
+http://www.mobile01.com/topicdetail.php?f=168&t=3688384&p=1
 
-  - http://opensource.com/resources/what-is-openstack (Ceilometer provides telemetry services, which allow the cloud to provide billing services to individual users of the cloud.)
-  - http://www.billingstack.org/#/
-  - https://www.mirantis.com/blog/tracking-billing-can-make-openstack-cloud-better/
-  - https://www.stackops.com/en/openstack-billing/
-  - (OpenBook ) https://www.redhat.com/en/about/events/managing-billing-and-customer-life-cycle-openstack-red-hat-and-talligent
-                http://talligent.com/
-  - !!(SlapOS Billing)  http://www.nexedi.com/news-SlapOS.Billing        
-                        !! https://www.slapos.org/
-                        https://www.youtube.com/watch?v=9pEgWmtk32o
-  - videos 
-            https://www.openstack.org/summit/openstack-paris-summit-2014/session-videos/presentation/billing-integration-enablement-for-ceilometer
-            https://www.openstack.org/summit/san-diego-2012/openstack-summit-sessions/presentation/what-about-billing-an-introduction-to-ceilometer
-                 
