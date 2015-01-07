@@ -1,8 +1,1 @@
 
-http://www.dotblogs.com.tw/skychang/archive/2013/04/18/101775.aspx
-
-http://quant.stackexchange.com/questions/550/drawbacks-caveats-of-using-nesper-for-esp-cep-in-trading-systems
-
-http://blogs.msdn.com/b/streaminsight/
-http://blogs.msdn.com/b/streaminsight/archive/2014/06/16/microsoft-streaminsight-2-3-for-sql-server-2014.aspx
-
