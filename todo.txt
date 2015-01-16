@@ -35,7 +35,9 @@ Finalize :
    http://verywed.com/forum/expexch/2776865-1.html
    Google App Engine
    Google Cloud Platform
-   
+      http://blog.xsoin.com/2013/12/google-cloud-platform.html
+      http://yychen.joba.cc/dev/archives/151
+      
 1/17(Sat.) 
      PM 12:00 明宏結婚(一位) 地點 : 香格里拉台北遠東國際大飯店 (三樓遠東宴會廳)(台北市敦化南路二段201號3樓) (http://goo.gl/forms/BjEJOWhH8x)
      14:30 問台南海鮮
