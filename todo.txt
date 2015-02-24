@@ -57,6 +57,11 @@ DVD player
 
 3/4(Wed.) 婚假結束
 
+3/5(Thur.)
+Node.js : http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+          http://www.nodebeginner.org/
+          https://www.meteor.com/about
+          
 3/7(Sat.) 15:30 牙醫
 
 3/25(Wed.)
