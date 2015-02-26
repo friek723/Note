@@ -4,12 +4,25 @@ ASUS
         11.6吋  1.75 (H) cm 980 克 $6680 記憶體：2GB DDR3 儲存：32GB EMMC
     T100
         10.1吋 23.6 mm    1,070g   $9999 記憶體：DDR3 2GB 儲存：EMMC 64GB
+    T100TAM
+        $11988 其他同T100
+    X200MA 
+        11.6吋 2.56 ~ 3.04 (H) cm  1.2Kg 記憶體: 2GB DDR3 容量: 500G 5400轉 $8350 
     
 ACER 
-
+    ES1-111-C0A7 : 24h.pchome.com.tw/prod/DHAE71-19005VHQ7?q=/S/DHAE8J
+        11.6吋 21.2 (H) mm 1.29 kg 記憶體：2GB DDR3L(Max 8GB) 硬碟：320G $7290
+    Aspire E3 : 24h.pchome.com.tw/prod/DHAE71-19005WBAM?q=/S/DHAE8J
+        11.6吋 21.2 (H) mm 1.29 kg 記憶體：4G DDR3 硬碟：500G (SATA) $9900 
+    (平板)Aspire Switch 10 SW5-012-15H8 : 24h.pchome.com.tw/prod/DHAE73-A9005F0QU?q=/S/DHAE73
+        10.1吋 8.9 (H) mm?? 1.17kg 記憶體: 2GB LPDDR3 (不可擴充) 儲存:64GB eMMC $9900 
+        
 HP
 
 LENOVO
+    IdeaPad E10-30 59428113 : http://24h.pchome.com.tw/prod/DHAH4V-A90059LJN
+        10.1吋 16-27 mm 1.1 ~ 1.25kg 記憶體：2GB 1066 MHz DDR3L-RAM 硬碟：320GB(5400rpm) $5999
+        
 
 
 
