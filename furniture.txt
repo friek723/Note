@@ -2,9 +2,9 @@
 ASUS
     EeeBook X205TA-0201GZ3735F : http://24h.pchome.com.tw/prod/DHAFCU-A9005SX88
         11.6吋  1.75 (H) cm 980 克 $6680 記憶體：2GB DDR3 儲存：32GB EMMC
-    T100 : http://24h.pchome.com.tw/prod/DHAFBI-19005VGUP
+    (平板)T100 : http://24h.pchome.com.tw/prod/DHAFBI-19005VGUP
         10.1吋 23.6 mm    1,070g   $9999 記憶體：DDR3 2GB 儲存：EMMC 64GB
-    T100TAM : http://24h.pchome.com.tw/prod/DHAFBI-A9005WDB9
+    (平板)T100TAM : http://24h.pchome.com.tw/prod/DHAFBI-A9005WDB9
         $11988 其他同T100
     X200MA : http://24h.pchome.com.tw/prod/DHAFCU-A9005R48M 
         11.6吋 2.56 ~ 3.04 (H) cm  1.2Kg 記憶體: 2GB DDR3 容量: 500G 5400轉 $8350 
