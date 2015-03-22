@@ -43,7 +43,6 @@ Fresh off that boat
 3/22 
 買大水壺 + 拿車庫key回家
 Delete dropbox /tmp/Apeture after sync
-Try to switch between dropbox accounts
 
 3/23(Mon.)
 gym
