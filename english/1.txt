@@ -44,4 +44,5 @@ detergent : n. a chemical substance in the form of a powder or a liquid for remo
 洗衣粉(精) washing powder/liquid  ( US "laundry detergent") : a detergent in the form of a powder or liquid that is used for washing clothes and other things made of cloth
 
 
+disinfect : v. 給…殺菌，爲…除菌，替…消毒 to clean something using chemicals that kill bacteria and other very small living things that cause disease
 
