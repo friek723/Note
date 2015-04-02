@@ -1,3 +1,10 @@
+divert (+ to): v[T] (CHANGE DIRECTION)
+Ex : Our flight had to be diverted to Newark because of the storm.
+
+diverge : v. [I] to follow a different direction, or to be or become different  
+Ex : Although the two organizations have worked together for many years, their objectives have diverged recently.
+
+
 mogul : An important or powerful person, especially in the motion picture or media industry.
 
 distrust : the feeling of not trusting someone or something
