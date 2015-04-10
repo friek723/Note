@@ -1,3 +1,7 @@
+diameter : /daɪˈæm.ɪ.tər/ 直徑   
+radius : /ˈreɪ.di.əs/ 半徑
+Ex : The diameter measures twice the radius. 直徑是半徑的兩倍
+
 disciplined : adj.  behaving in a very controlled way 守紀律的，守規矩的
 
 leftover : adj. 剩下的，留下的 describes part of something that has not been used or eaten when the other parts have been
