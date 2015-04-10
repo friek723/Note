@@ -1,7 +1,8 @@
 leftover : adj. 剩下的，留下的 describes part of something that has not been used or eaten when the other parts have been
-leftovers [plural] n. : food remaining after a meal
+leftovers [plural] (可吃)n. : food remaining after a meal
+                        Ex : This recipe can serve four easily, and the leftovers are just as good eaten cold.
 
-scraps [plural] n. /skræp/ : 廚餘 small bits of food which have not been eaten and which are usually thrown away 
+scraps [plural] (不可吃)n. /skræp/ : 廚餘 small bits of food which have not been eaten and which are usually thrown away 
 scrap n. /skræp/ : 
   1. [C] 碎片，碎屑；少量（資訊） a small irregular piece of something or a small amount of information 
      Ex : Have you got a scrap of paper I could write on?
