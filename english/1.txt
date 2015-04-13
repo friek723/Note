@@ -124,9 +124,11 @@ tout : Attempt to sell (something), typically by pestering people in an aggressi
 
 empathize (+with): v.  to be able to understand how someone else feels.  Ex :  It's very easy to empathize with the characters in her books.
 empathetic (+towards): adj. Ex : she’s compassionate and empathetic towards her daughter.
+empathy : n.[U] 
 
 sympathize : v. to understand and care about someone's problems
 sympathetic (+about) : adj. used to describe someone who shows, especially by what they say, that they understand and care about someone else's suffering
+sympathy : n.    Ex : I went along to the funeral in order to "offer my sympathies".
 
 compassion : a strong feeling of sympathy and sadness for the suffering or bad luck of others and a wish to help them
 compassionate : adj  
