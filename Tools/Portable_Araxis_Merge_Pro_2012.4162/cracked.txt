@@ -1,0 +1,11 @@
+Portable and localized App by Morgan
+
+1--Double click and run
+2--It can be UnRARed the Portable_xxx.exe into a folder
+
+
+1--直接雙擊執行
+2--也可以用 WinRAR 解壓 Portable_xxx.exe 為目錄
+
+
+Enjoy!
