@@ -1,3 +1,6 @@
+damages [plural] [legal] : 賠償（金），賠款
+compensation [U]: 賠償金；補償金
+
 break even : to have no profit or loss at the end of especially a business activity 收支平衡；（尤指商業活動）不賺不賠  
 Ex :  After paying for our travel costs, we barely (= only just) broke even.
 
