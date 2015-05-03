@@ -1,6 +1,13 @@
-astute
-canny
-cunning
+astute : /əˈstjuːt/ adj. 敏銳的；精明的 clever and quick to see how to take advantage of a situation 
+
+canny : /ˈkæn.i/ adj.（尤指在生意或財務方面）精明的，機靈的 
+    thinking quickly and cleverly, especially in business or financial matters 
+
+cunning :  /ˈkʌn.ɪŋ/ adj. 狡猾的，狡詐的 
+    describes people who are clever at planning something so that they get what they want, 
+    especially by tricking other people, or things that are cleverly made for a particular purpose 
+
+legendary : adj. very famous and admired or spoken about
 
 rampant : adj. (of something bad) getting worse quickly and in an uncontrolled way （不好的事情）猖獗的，泛濫的
 Ex :  Disease is rampant in the overcrowded city.
