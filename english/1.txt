@@ -34,7 +34,7 @@ cunning :  /ˈkʌn.ɪŋ/ adj. 狡猾的，狡詐的
 
 legendary : adj. very famous and admired or spoken about
 
-rampant : adj. (of something bad) getting worse quickly and in an uncontrolled way （不好的事情）猖獗的，泛濫的
+rampant : adj.  /ˈræm.pənt/ (of something bad) getting worse quickly and in an uncontrolled way （不好的事情）猖獗的，泛濫的
 Ex :  Disease is rampant in the overcrowded city.
 
 elope (+with) : v. 私奔 to leave home secretly in order to get married without the permission of parents 
@@ -48,6 +48,7 @@ forced : adj.
     Ex : She tried hard to smile but suspected that it looked forced.
 
 complacent : adj./kəmˈplei.sənt/ [disapproving] 自滿的，自鳴得意的 feeling so satisfied with your own abilities or situation that you feel you do not need to try any harder 
+Ex : We can't afford to become complacent about any of our products.
 
 strengthen : verb [I or T]  to make something stronger or more effective, or to become stronger or more effective
 weaken : verb [I or T] to (cause to) become less strong, powerful or determined
