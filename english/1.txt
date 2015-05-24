@@ -107,6 +107,7 @@ relentless : adj. continuing in a severe or extreme way 持續嚴厲的；持續
 
 diverge : v. （道路）分叉；出現差異；發生分歧 to follow a different direction, or to be or become different 
 Ex : They walked along the road together until they reached the village, but then their paths diverged.
+Ex : Although the two organizations have worked together for many years, their objectives have diverged recently.
 divergence : n. 
 divergent : adj. 
 
@@ -383,9 +384,6 @@ Ex : Tong's family is left to wonder whether justice will ever prevail.
 
 divert (+ to): v[T] (CHANGE DIRECTION)
 Ex : Our flight had to be diverted to Newark because of the storm.
-
-diverge : v. [I] to follow a different direction, or to be or become different  
-Ex : Although the two organizations have worked together for many years, their objectives have diverged recently.
 
 mogul : n. /ˈməʊ.ɡəl/  An important or powerful person, especially in the motion picture or media industry.
 
