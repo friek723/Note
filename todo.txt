@@ -1,5 +1,9 @@
 TODO :
 
+[newegg]
+    http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15693&sec=0
+    瑞光路513巷31號10樓
+    
 買外幣 + 欣日幣定存
 信用卡年費?
 
