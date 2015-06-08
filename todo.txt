@@ -1,7 +1,7 @@
 TODO :
 
 [newegg]
-    http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15693&sec=0
+    內科通勤專車(仁寶大樓站)  http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15702&sec=0
     瑞光路513巷31號10樓
     
 買外幣 + 欣日幣定存
