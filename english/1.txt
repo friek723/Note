@@ -1,4 +1,4 @@
-simmer : v.  
+simmer : v.  /ˈsɪm.ər/
 1. 燉 to cook something liquid, or something with liquid in it, at a temperature slightly below boiling   
 2. （分歧或消極情緒）醞釀 If a disagreement or negative emotion simmers, it grows slowly stronger over a period of time and could become more serious at any moment 
   Ex: She's been simmering with resentment ever since the meeting.
@@ -9,7 +9,7 @@ Ex: The political fallout of the revelations has been immense.
 decimate : v. /ˈdes.ɪ.meɪt/ to kill a large number of something, or to reduce something severely 毀滅，大量殺戮；大幅削減
 Ex : Populations of endangered animals have been decimated.
 
-rugged :　adj. 不平的 (of land) wild and not even; not easy to travel over 
+rugged :　adj. /ˈrʌɡ.ɪd/ 不平的 (of land) wild and not even; not easy to travel over 
 
 rug : n. /rʌɡ/  
 1. 小地毯；墊子 a piece of thick heavy cloth smaller than a carpet, used for covering the floor or for decoration  
@@ -18,8 +18,9 @@ rug : n. /rʌɡ/
 sporadic : adj. /spəˈræd.ɪk/ happening sometimes; not regular or continuous   
 sporadically : adv. /spəˈræd.ɪ.kli/
 
-fluke : n.[C] [informal] 僥倖；偶然；意外 something good that has happened that is the result of chance instead of skill or planning    
+fluke : n.[C] [informal] /fluːk/ 僥倖；偶然；意外 something good that has happened that is the result of chance instead of skill or planning    
 Ex: The first goal was just "a fluke". 第一個進球只是僥倖命中。
+flukey : adj. 
 
 calf : n. /kæf/ 幼獸
 If a cow is in calf, it is pregnant.
