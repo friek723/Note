@@ -44,6 +44,7 @@ Tech
 7/2(Thur.)
 晚:
   加油
+  RMB剩多少? 記帳
   請假拍婚紗16 or 20號, 通知西裝店, 何時剪頭髮?
   Get https://github.com/shyamseshadri/angularjs-up-and-running
 
