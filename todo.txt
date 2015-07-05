@@ -42,6 +42,11 @@ Tech
 ------------------------------------七月-------------------------------------
 
 7/6(Mon.)
+php mongo substring : http://php.net/manual/en/class.mongoregex.php
+                      http://stackoverflow.com/questions/20702819/find-substring-in-mongodb-array-from-another-array-from-php
+                      http://stackoverflow.com/questions/4219801/how-do-i-search-part-of-a-string-in-mongodb
+                      http://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
+                      
 剪頭髮
 請假拍婚紗16 or 20號, 通知西裝店, 何時剪頭髮?
 報帳Taxi  6/11 $590
