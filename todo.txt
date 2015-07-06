@@ -41,15 +41,10 @@ Tech
  
 ------------------------------------七月-------------------------------------
 
-7/6(Mon.)
-php mongo substring : http://php.net/manual/en/class.mongoregex.php
-                      http://stackoverflow.com/questions/20702819/find-substring-in-mongodb-array-from-another-array-from-php
-                      http://stackoverflow.com/questions/4219801/how-do-i-search-part-of-a-string-in-mongodb
-                      http://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
-                      
-剪頭髮
+7/7(Tue.)
 請假拍婚紗16 or 20號, 通知西裝店, 何時剪頭髮?
-報帳Taxi  6/11 $590
+剪頭髮
+Airbnb 一位
 
 7/8(Wed.)
 申請新光保險
@@ -60,6 +55,7 @@ Airbnb (馬來西亞couple)
 
 7/15(Wed.)
 台銀美金匯率(即期買入5/24 : 30.38, 6/17 : 30.87, 7/1 :30.81)
+報帳Taxi  6/11 $590
 
 7/22(Wed.)  恩霖牙醫定檢
 
