@@ -30,7 +30,8 @@ stall :
 1. n. [C] /stɔːl/ 貨攤，攤位；販賣處 a large table or a small shop with an open front from which goods are sold in a public place  
 2. n. [C] a small area of a room which is separated from the main part of the room by walls or curtains （房間內的）小隔間 
     Ex : There was one bathroom with a shower stall in the corner.
-3. v. to delay taking action or avoid giving an answer in order to have more time to make a decision or get an advantage 拖延     Ex : She says she'll give me the money next week but I think she's just stalling
+3. v. to delay taking action or avoid giving an answer in order to have more time to make a decision or get an advantage 拖延
+    Ex : She says she'll give me the money next week but I think she's just stalling
 4. v. If you stall a person, you delay them or prevent them from doing something for a period of time 拖住（某人）
     Ex : I managed to stall him for a few days until I'd got enough money to pay back the loan.
 5. v.  If you stall an event, you delay it or prevent it from happening for a period of time 延遲，暫緩；擱置  
