@@ -1,3 +1,5 @@
+division : n. when people disagree about something 分歧；不和
+
 rift : n.[C] /rɪft/  
 1. a large crack in the ground or in rock 裂縫；裂口；斷裂  
   Ex : The stream had cut a deep rift in the rock.
@@ -81,8 +83,6 @@ poised : adj. /pɔɪzd/
 3. showing very calm and controlled behaviour 沉著的，泰然自若的
 
 open-ended : adj. An open-ended activity or situation does not have a planned ending, so it may develop in several ways 無結論的；無限制的；未預作安排的
-
-division : n. when people disagree about something 分歧；不和
 
 oppose : v. to disagree with something or someone, often by speaking or fighting against them  
 Ex : I would certainly oppose changing the system.
