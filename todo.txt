@@ -1,28 +1,24 @@
-TODO :
 
-賣 : G2000黑西裝
-     Chromecast 
-     
 天馳 : 
     搬家 : 棕梠海冰箱size可能不合天馳?
     找財委設定車位跟一樓門(用建商給的卡, 同時設定一樓大門跟B2車位)(每週日晚上7∼10點可至5B財委處設定機械車位與門禁卡)
     
-前同事聚餐
-
-三箱整理 + 整理文件
-
 Tech 
    Google Cloud Platform & Google App Engine
       http://blog.xsoin.com/2013/12/google-cloud-platform.html
       http://yychen.joba.cc/dev/archives/151
    http://www.tomsitpro.com/articles/paas-providers,1-1517.html
    
-
+   
+#三箱整理 + 整理文件
+#前同事聚餐
 #信用卡預借現金密碼
  信用卡年費?
- 
 #買外幣 + 欣日幣定存
-
+#買HDMI大轉小 (2月前)
+#賣 : G2000黑西裝
+      Chromecast 
+     
 ------------------------------------十月------------------------------------------
 
 10/26(Mon.)
