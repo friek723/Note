@@ -2,7 +2,8 @@ swag :  n. [U] /swæɡ/ [old-fashioned slang] stolen goods 贓物
 
 unpretentious  : adj. /ˌʌn.prɪˈten.ʃəs/ [approving] simple and/or sincere; not pretentious 不矯飾的；低調的，不張揚的 
 
-amount : n. [C] a collection or mass especially of something which cannot be counted （尤指不可數事物的）數量；數額；量；總數      Ex : I didn't expect the bill to come to this amount (= of money).
+amount : n. [C] a collection or mass especially of something which cannot be counted （尤指不可數事物的）數量；數額；量；總數
+    Ex : I didn't expect the bill to come to this amount (= of money).
 
 put sth down : to kill an animal that is old, ill or injured, to prevent it from suffering殺死（衰老或有傷病的動物以免除其痛）
 put-down : [informal] n. an unkind remark that makes someone seem silly 貶低（或奚落）的話
