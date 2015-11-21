@@ -1,3 +1,9 @@
+amplify : v. /ˈæm.plɪ.faɪ/ [formal] to increase the size or effect of something 擴大；增強 
+ Ex : "Everything is against a rescue [mission]. It will be cold up there. And the problem is amplified by the cloud cover."
+
+tricky : adj. If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill 難辦的；難對付的
+  Ex : He added that the area where the crash happened was "unforgiving" and that flying there was "very, very tricky". (weather conditions were "terrible")
+
 unprovoked :adj. /ˌʌn.prəˈvəʊkt/ describes an unpleasant action or remark when it has not been caused by anything and is therefore unfair （令人不快的言行）無端的，無緣無故的
 Ex : an unprovoked attack on her character
 
