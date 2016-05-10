@@ -1,7 +1,8 @@
 supplement : /ˈsʌp.lɪ.ment/
 v. to add something to something to make it larger or better 增加，補充，增補 
    Ex : Some vegetarians like to supplement their diets with iron tablets.
-n. [C] something which is added to something else in order to improve it or complete it; something extra 補充物，增補物    Ex : The doctor said she should be taking vitamin supplements.
+n. [C] something which is added to something else in order to improve it or complete it; something extra 補充物，增補物  
+   Ex : The doctor said she should be taking vitamin supplements.
 
 terse (abrupt): adj. /tɝːs/ using few words, sometimes in a way that seems rude or unfriendly   
 Ex : Are you feeling any better?" "No!" was the terse reply. 
