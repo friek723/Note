@@ -50,10 +50,11 @@ world gym請假一年到期
                          Bupa : 必須打電話通知搬家, 並且給新地址 (重新計算保費)
 
 7/12(Wed.)
-賣股票 + 彰銀淡水轉到北投 + 轉錢到一信
-改地址
-查欣回程機票
-Sydney toll apply
+TODO : 
+    (1)賣股票 + 彰銀淡水轉到北投 + 轉錢到一信
+    (2)查欣回程機票
+    (3)改地址
+    (4)Sydney toll apply
 
 7/15(Sat.)
 Lodge your tax return during the normal lodgment period (1 July to 31 October) 
