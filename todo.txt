@@ -53,7 +53,7 @@ world gym請假一年到期
 TODO : 
     (1)賣股票
     (2)查欣回程機票
-    (3)改地址
+    (3)改地址 (NAB要22:00前)
     (4)Sydney toll apply
 
 7/15(Sat.)
