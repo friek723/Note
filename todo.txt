@@ -81,6 +81,9 @@ Commonwealth進出2000
 帶bank account details + super + TFN 
 Level 1, 10 Shelley Street, and ask for Rajini
 
+9/12(Tue.)
+Laravel meetup - 6:00 PM to 8:30 PM - Level 6, 1-3 Smail Street, Ultimo NSW (https://www.meetup.com/PHP-Laravel-Framework-Sydney/events/242918976/)
+
 ------------------------------------十月-------------------------------------------
 10/1
 Commonwealth進出2000
