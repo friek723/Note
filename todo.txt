@@ -74,9 +74,6 @@ Lodge your tax return during the normal lodgment period (1 July to 31 October)
 9/1(Fri.)
 Commonwealth進出2000
 
-9/6(Wed.)
-繳房租400
-
 9/9(Sat.) 
 2:00 PM 青年創業論壇Level 6, 1 Castlereagh Street, Sydney, NSW Ph: 02 8015 3888 (Chevy CHEN | Senior Director
 West Bridge Group)
@@ -92,6 +89,7 @@ Level 1, 10 Shelley Street, and ask for Rajini
 Laravel meetup - 6:00 PM to 8:30 PM - Level 6, 1-3 Smail Street, Ultimo NSW (https://www.meetup.com/PHP-Laravel-Framework-Sydney/events/242918976/)
 
 9/20(Wed.)
+!! 繳房租400
 Docker Meetup - 5:30 PM - 37 Reservoir Street Surry Hills
 (https://www.meetup.com/Sydney-Docker-User-Group/events/238792839/?gj=co2&rv=co2)
 
