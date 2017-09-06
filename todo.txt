@@ -91,6 +91,14 @@ Level 1, 10 Shelley Street, and ask for Rajini
 9/12(Tue.)
 Laravel meetup - 6:00 PM to 8:30 PM - Level 6, 1-3 Smail Street, Ultimo NSW (https://www.meetup.com/PHP-Laravel-Framework-Sydney/events/242918976/)
 
+9/20(Wed.)
+Docker Meetup - 5:30 PM - 37 Reservoir Street Surry Hills
+(https://www.meetup.com/Sydney-Docker-User-Group/events/238792839/?gj=co2&rv=co2)
+
+9/26(Tue.)
+Python meetup - 6:00 PM - Level 1, 608 Harris St, Sydney 
+(https://www.meetup.com/sydneypython/events/241102136/)
+
 ------------------------------------十月-------------------------------------------
 10/1
 Commonwealth進出2000
