@@ -91,7 +91,7 @@ Docker Meetup - 5:30 PM - 37 Reservoir Street Surry Hills
 (https://www.meetup.com/Sydney-Docker-User-Group/events/238792839/?gj=co2&rv=co2)
 
 9/26(Tue.)
-Python meetup - 6:00 PM - Level 1, 608 Harris St, Sydney 
+Python meetup - 6:00 PM - Level 1/10 Shelley St, Sydney
 (https://www.meetup.com/sydneypython/events/241102136/)
 
 ------------------------------------十月-------------------------------------------
