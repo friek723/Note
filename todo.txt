@@ -71,20 +71,6 @@ Lodge your tax return during the normal lodgment period (1 July to 31 October)
 一信餘額？
 
 ------------------------------------九月-------------------------------------------
-9/10(Sun.)
-gym
-
-9/11(Mon.)
-帶bank account details + super + TFN 
-Level 1, 10 Shelley Street, and ask for Rajini
-Arrive at our Belinda office at 9am and ask for Anh Nguyen at reception
-
-9/12(Tue.)
-Laravel meetup - 6:00 PM to 8:30 PM - Level 6, 1-3 Smail Street, Ultimo NSW (https://www.meetup.com/PHP-Laravel-Framework-Sydney/events/242918976/)
-
-9/16(Sat.)  
-台灣日嘉年華 - 9/16 + 9/17
-
 9/20(Wed.)
 !! 繳房租400
 Docker Meetup - 5:30 PM - 37 Reservoir Street Surry Hills
@@ -93,6 +79,9 @@ Docker Meetup - 5:30 PM - 37 Reservoir Street Surry Hills
 9/26(Tue.)
 Python meetup - 6:00 PM - Level 1/10 Shelley St, Sydney
 (https://www.meetup.com/sydneypython/events/241102136/)
+
+9/30(Sat.) 
+加機油  : 9/17檢查：high跟low之間一半
 
 ------------------------------------十月-------------------------------------------
 10/1
