@@ -123,7 +123,7 @@ gym
 登入查看澳洲是否需報稅？ (應該是不用了： 找email "澳洲報稅")
 有回淡水：拿黑皮鞋
         帶爸房間的印表機來
-        給媽看歐洲照片:Google相簿app投到Chromecast: https://support.google.com/photos/answer/6295590?co=GENIE.Platform%3DiOS&hl=zh-Hant&oco=1
+        給媽看歐洲照片
 週末待辦：
     買電扇
     有機會把舊的macbook帶回去，先開機看看
